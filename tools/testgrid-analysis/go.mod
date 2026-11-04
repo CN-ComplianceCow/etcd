@@ -1,6 +1,6 @@
 module go.etcd.io/etcd/tools/testgrid-analysis/v3
 
-go 1.26
+go 1.26.0
 
 toolchain go1.26.3
 
