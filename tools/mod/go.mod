@@ -1,13 +1,11 @@
 module go.etcd.io/etcd/tools/v3
 
-go 1.26
-
-toolchain go1.26.3
+go 1.27
 
 require (
 	github.com/alexfalkowski/gocovmerge v1.11.0
 	github.com/appscodelabs/license-bill-of-materials v0.0.0-20220707232035-6018e0c5287c
-	github.com/cloudflare/cfssl v1.6.5
+	github.com/cloudflare/cfssl v1.7.1
 	github.com/golangci/golangci-lint/v2 v2.11.4
 	github.com/google/yamlfmt v0.21.0
 	github.com/grpc-ecosystem/grpc-gateway/v2 v2.29.0
