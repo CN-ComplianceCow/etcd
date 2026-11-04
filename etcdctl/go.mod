@@ -1,6 +1,6 @@
 module go.etcd.io/etcd/etcdctl/v3
 
-go 1.26
+go 1.26.0
 
 toolchain go1.26.3
 
@@ -18,8 +18,8 @@ require (
 	go.etcd.io/etcd/pkg/v3 v3.6.0-alpha.0
 	go.uber.org/zap v1.27.1
 	golang.org/x/time v0.15.0
-	google.golang.org/grpc v1.80.0
-	google.golang.org/protobuf v1.36.11
+	google.golang.org/grpc v1.85.0
+	google.golang.org/protobuf v1.36.12
 )
 
 require (
@@ -42,11 +42,11 @@ require (
 	github.com/olekukonko/ll v0.1.6 // indirect
 	github.com/pmezard/go-difflib v1.0.1-0.20181226105442-5d4384ee4fb2 // indirect
 	go.uber.org/multierr v1.11.0 // indirect
-	golang.org/x/net v0.53.0 // indirect
-	golang.org/x/sys v0.43.0 // indirect
-	golang.org/x/text v0.36.0 // indirect
-	google.golang.org/genproto/googleapis/api v0.0.0-20260414002931-afd174a4e478 // indirect
-	google.golang.org/genproto/googleapis/rpc v0.0.0-20260414002931-afd174a4e478 // indirect
+	golang.org/x/net v0.60.0 // indirect
+	golang.org/x/sys v0.48.0 // indirect
+	golang.org/x/text v0.42.0 // indirect
+	google.golang.org/genproto/googleapis/api v0.0.0-20260817212433-ac3dfec99bb1 // indirect
+	google.golang.org/genproto/googleapis/rpc v0.0.0-20260817212433-ac3dfec99bb1 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
 
