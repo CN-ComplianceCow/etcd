@@ -17,7 +17,7 @@ require (
 	go.etcd.io/raft/v3 v3.6.0-beta.0.0.20260116184858-6d944ca211ee
 	golang.org/x/tools v0.44.0
 	google.golang.org/grpc/cmd/protoc-gen-go-grpc v1.6.1
-	google.golang.org/protobuf v1.36.11
+	google.golang.org/protobuf v1.36.12
 	gotest.tools/gotestsum v1.13.0
 	gotest.tools/v3 v3.5.2
 	honnef.co/go/tools v0.7.0
