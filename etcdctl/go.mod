@@ -1,6 +1,6 @@
 module go.etcd.io/etcd/etcdctl/v3
 
-go 1.26
+go 1.26.0
 
 toolchain go1.26.3
 
@@ -17,7 +17,7 @@ require (
 	go.etcd.io/etcd/client/v3 v3.6.0-alpha.0
 	go.etcd.io/etcd/pkg/v3 v3.6.0-alpha.0
 	go.uber.org/zap v1.27.1
-	golang.org/x/time v0.15.0
+	golang.org/x/time v0.16.0
 	google.golang.org/grpc v1.80.0
 	google.golang.org/protobuf v1.36.11
 )
